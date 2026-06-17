@@ -1,0 +1,66 @@
+{
+  "creator": {
+    "name": "Sasa Daily AI Media",
+    "description": "AI變現、AI工具、AI工作流與中小企業省成本內容媒體",
+    "operator": "怡仁",
+    "related_brand": "Zumba Seremban"
+  },
+  "platforms": {
+    "facebook": {
+      "page_name": "Zumba Seremban",
+      "url": "https://www.facebook.com/zumbaseremban",
+      "followers_estimate": 30000,
+      "content_focus": [
+        "Zumba課程",
+        "課後團體照",
+        "AI生活內容",
+        "AI變現內容"
+      ]
+    },
+    "website": {
+      "name": "Sasa Daily",
+      "url": "https://sasadaily.com",
+      "sections": [
+        "AI生活",
+        "AI工具",
+        "AI變現",
+        "Zumba內容"
+      ]
+    },
+    "threads": {
+      "status": "planning",
+      "content_focus": [
+        "AI新聞短文",
+        "短影音摘要",
+        "創業觀點"
+      ]
+    }
+  },
+  "content_strategy": {
+    "main_direction": "AI新聞轉成短影音、貼文與網站文章",
+    "daily_workflow": [
+      "找AI新聞",
+      "整理白話重點",
+      "產生短影音腳本",
+      "製作Canva畫面",
+      "剪映或CapCut輸出影片",
+      "發佈到FB、Threads、網站"
+    ],
+    "target_audience": [
+      "中小企業老闆",
+      "個人創業者",
+      "想用AI省成本的人",
+      "想做內容變現的人"
+    ]
+  },
+  "metrics": {
+    "update_frequency": "weekly",
+    "tracking_items": [
+      "Facebook粉絲數",
+      "貼文觸及",
+      "短影音觀看數",
+      "網站文章數",
+      "Threads互動數"
+    ]
+  }
+}
